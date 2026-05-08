@@ -16,6 +16,15 @@ I build study systems and research-oriented codebases for understanding modern m
 - Data science workflows, evaluation, and leakage-aware modeling
 - Research notes, reproducible labs, and long-form technical learning systems
 
+## Current Research
+
+I am currently working on applied machine learning research in healthcare:
+
+| Working paper | Focus |
+| --- | --- |
+| **Explainable Machine Learning for Chronic Kidney Disease Screening Support Using Structured Clinical and Low-Cost Laboratory Features** | Tabular clinical ML, low-cost screening support, model evaluation, explainability, and clinically useful decision support. |
+| **Comparative Evaluation of Transfer Learning CNN Backbones for Brain Tumor MRI Classification with Grad-CAM Explainability** | Medical imaging, transfer learning, CNN backbone comparison, Grad-CAM, and interpretable MRI classification. |
+
 ## Featured Work
 
 | Project | What it is |
@@ -50,4 +59,3 @@ The goal is to move from reading to implementation to reproducible experiments, 
 - Website: [deepml.app](https://deepml.app)
 - LinkedIn: [linkedin.com/in/pricodex](https://www.linkedin.com/in/pricodex)
 - GitHub: [github.com/RiazML](https://github.com/RiazML)
-
